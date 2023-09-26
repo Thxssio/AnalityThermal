@@ -8,4 +8,11 @@
 - [x] Anality Thermal
 - [x] Yolo
 - [x] Ubuntu
+- [x] CameraUV
+
+**Analtity**
+
+```
+https://github.com/ultralytics/ultralytics
+```
 
